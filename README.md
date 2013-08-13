@@ -21,3 +21,6 @@ Things you can do with it:
 You can use the shell script `scripts/start_server.sh` to either start a server (bash) or how to start one (Windows).  Right now you can only specify which Stanford Parser model you want to use (due to demand from my group). :grinning:  The English PCFG one will be used by default.
 
 Please see the wiki for more specific information on how to communicate with the server, how to set up Thrift and Stanford CoreNLP, and how to modify this code.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/EducationalTestingService/stanford-thrift/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
